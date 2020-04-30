@@ -14,7 +14,7 @@
     "axios": "^0.16.2",
     "better-scroll": "^0.4.0",
     "element-ui": "^2.4.7",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "js-base64": "^2.4.9",
     "js-cookie": "^2.2.0",
     "js-md5": "^0.7.3",
